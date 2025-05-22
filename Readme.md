@@ -25,7 +25,7 @@ ASSET_URL=http://localhost
 DB_CONNECTION=mariadb
 DB_HOST=db_ksi
 DB_PORT=3306
-DB_DATABASE=ksi_uts
+DB_DATABASE=ksi
 DB_USERNAME=root
 DB_PASSWORD=p455w0rd
 ```
